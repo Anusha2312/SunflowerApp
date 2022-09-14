@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-14T20:23:19 CEST" name="Suite" finished-at="2022-09-14T20:25:44 CEST" duration-ms="145293">
+    <groups>
+    </groups>
+    <test started-at="2022-09-14T20:23:19 CEST" name="Test" finished-at="2022-09-14T20:25:44 CEST" duration-ms="145293">
+      <class name="MobileTestFramework.MobileTestFramework.TestAddPlant">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestAddPlant@1bd4fdd]" started-at="2022-09-14T20:23:19 CEST" name="killAllNodes" finished-at="2022-09-14T20:23:22 CEST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="testAddPlant()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestAddPlant@1bd4fdd]" started-at="2022-09-14T20:24:05 CEST" name="testAddPlant" finished-at="2022-09-14T20:24:40 CEST" duration-ms="34503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddPlant -->
+      </class> <!-- MobileTestFramework.MobileTestFramework.TestAddPlant -->
+      <class name="MobileTestFramework.MobileTestFramework.TestAddPlantButtonDisabled">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestAddPlantButtonDisabled@4f83df68]" started-at="2022-09-14T20:23:22 CEST" name="killAllNodes" finished-at="2022-09-14T20:23:25 CEST" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="testAddButtonDisabled()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestAddPlantButtonDisabled@4f83df68]" started-at="2022-09-14T20:25:08 CEST" name="testAddButtonDisabled" finished-at="2022-09-14T20:25:44 CEST" duration-ms="35503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddButtonDisabled -->
+      </class> <!-- MobileTestFramework.MobileTestFramework.TestAddPlantButtonDisabled -->
+      <class name="MobileTestFramework.MobileTestFramework.TestValidateHomeScreen">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestValidateHomeScreen@59662a0b]" started-at="2022-09-14T20:23:28 CEST" name="killAllNodes" finished-at="2022-09-14T20:23:31 CEST" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="homeScreenValidation()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestValidateHomeScreen@59662a0b]" started-at="2022-09-14T20:23:31 CEST" name="homeScreenValidation" finished-at="2022-09-14T20:24:05 CEST" duration-ms="34137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeScreenValidation -->
+      </class> <!-- MobileTestFramework.MobileTestFramework.TestValidateHomeScreen -->
+      <class name="MobileTestFramework.MobileTestFramework.TestValidateAddedPlant">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestValidateAddedPlant@55183b20]" started-at="2022-09-14T20:23:25 CEST" name="killAllNodes" finished-at="2022-09-14T20:23:28 CEST" duration-ms="3065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="testValidateAddedPlant()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestValidateAddedPlant@55183b20]" started-at="2022-09-14T20:24:40 CEST" name="testValidateAddedPlant" finished-at="2022-09-14T20:25:08 CEST" duration-ms="28717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateAddedPlant -->
+      </class> <!-- MobileTestFramework.MobileTestFramework.TestValidateAddedPlant -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
