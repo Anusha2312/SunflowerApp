@@ -9,7 +9,7 @@ Framework Details:
 
 •	IDE: Eclipse	
 
-•	Framework : Page Object Model
+•	Framework : Page Object Model, TestNG
 
 •	DeviceType : Simulator
 
