@@ -14,6 +14,7 @@ Framework Details:
 •	DeviceType : Simulator
 
 
+Note: In the video attached intial few seconds the server is starting in the background and hence no activities is seen in the console.
 
 
 The Scenarios Automated:
@@ -49,7 +50,7 @@ The test script then clicks on the Plant List link and validates for below scree
  Reports:
  
  
- .html report is generated which contains the precise information on the execution and the time taken for execution.
+ .html report is generated using ExtentReporterNG which contains the precise information on the execution and the time taken for execution.
  
  Screenshots:
  
